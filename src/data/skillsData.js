@@ -1,0 +1,34 @@
+export const skillsData = [
+        {
+          "skill": "Languages",
+          "text": "With French as my mother tongue, I hold a 'licence de français langue étrangère' degree and boast five years of experience teaching French as a foreign language. During my middle school and high school years, I studied Spanish, achieving a conversational level of fluency. Additionally, I possess fluency in English, cultivated through living experiences in Australia, England, and Malaysia. More recently, I embarked on a journey to uncover the beauty of Portuguese.\n\nAs an educator, I have taught French to diverse audiences, ranging from children to diplomats, and have engaged in translation work, particularly from English to French. Leveraging my language expertise, I also provide text improvement and language correction services. This multifaceted background has equipped me with a deep understanding of language intricacies and the ability to facilitate effective cross-cultural communication.",
+          "image": require("../imagery/logoSkills/LOGO_LANGUAGES.png")
+        },
+        {
+          "skill": "Content Writing",
+          "text": "My journey as a content writer took off during a training period at Maryse Masse Communication, a specialized agency focusing on hospitality, restaurants, and luxury goods. There, I learned how to create impactful content for various platforms, including blogs, press releases, and media kits. Right after that experience, I had articles published in the review 'Un oeil en salle.' Simultaneously, I nurtured my own blog, 'Le Monstre du Frigo,' where I talked about food and pop culture.\n\nSince then, I have extended my expertise to a diverse clientele, ranging from a plant store to a tech company. My dedication to excellence drives me to continually enhance my online writing skills, specifically in search engine optimization (SEO). By leveraging SEO techniques, I strive to deliver quality content that improves organic visibility and drives engagement for my clients.\n\nBy blending creativity, meticulous research, and technical proficiency, I ensure that my clients' messages resonate with their target audience, leaving an impact in the digital landscape.",
+          "image":  require("../imagery/logoSkills/LOGO_CONTENT_WRITING.png")
+        },
+        {
+          "skill": "Social Media",
+          "text": "During my training period at Maryse Masse Communication, I had the valuable opportunity to manage social media accounts across platforms such as Facebook, Twitter, and Instagram. This experience allowed me to develop essential skills in creating engaging content. As my expertise expanded, I also added LinkedIn to my skills palette. In particular, I have been dedicated to helping individuals create impactful French-language posts, leveraging the platform to enhance their professional profiles.\n\nConfident in utilizing tools like HubSpot, Planoly, and Canva, I enjoy planning compelling social media content. Understanding the significance of timely and relevant messaging, I can prepare efficient social content calendars tailored to seasonal events and customized to meet the specific objectives of clients. By employing a strategic approach, I ensure that social media efforts drive meaningful engagement, increase brand visibility, and yield measurable outcomes.\n\nMy commitment to continuous learning keeps me up-to-date with the latest industry trends and emerging platforms, enabling me to refine my skills and maximize the potential of social media as a powerful marketing tool. With a strong blend of creativity, data-driven insights, and a keen understanding of target audiences, I am dedicated to helping clients cultivate a strong online presence and forge authentic connections with their customers in today's dynamic digital landscape.",
+          "image": require("../imagery/logoSkills/LOGO_SOCIAL_MEDIA.png")
+        },
+        {
+          "skill": "Coding",
+          "text": "In January 2022, I embarked on my coding journey by enrolling in the She Code Pro course led by Matt Delac. Since then, I have been committed to expanding my knowledge through online learning platforms like Codecademy. My focus has primarily been on HTML, CSS, and JavaScript, including frameworks such as React and Redux. Through these studies, I have acquired the skills necessary to develop basic websites and successfully host them.\n\nFor me, coding represents a fusion of languages and design, allowing me to merge my passions for both disciplines. While I acknowledge the need for further growth in my skills, I remain dedicated to ongoing learning and improvement. I continuously strive to enhance my expertise by tackling more complex website development, exploring additional programming languages, and embracing emerging technologies.",
+          "image":  require("../imagery/logoSkills/LOGO_CODING.png")
+        },
+        {
+          "skill": "Management",
+          "text": "I studied at a hospitality school from the age of 15 to 20. There I acquired foundational knowledge in the management field. Further solidifying my skills, I undertook a two-year apprenticeship as a chef de partie, a role that required effective people management. Working in a kitchen environment, I successfully led and coordinated teams, ensuring seamless operations and a collaborative atmosphere. Drawing on my expertise, I also had to teach classes comprising individuals from diverse nationalities, guiding them towards their goals.\n\nI thrive when I have the opportunity to lead projects in collaborative settings, where ideas are shared, talents are honed, and milestones are celebrated together.\n\nAs a manager, I understand the importance of effective communication and through my experiences, I have developed a leadership style that promotes inclusivity, open dialogue, and a results-driven mindset.",
+          "image":  require("../imagery/logoSkills/LOGO_MANAGEMENT.png")
+        },
+        {
+          "skill": "Photography & Design",
+          "text": "As an avid traveler, I find joy in capturing the overlooked details that hold immense beauty. Drawing inspiration from my arty upbringing and museum explorations, I've developed an appetite for design and a skillful command of tools like Canva. It has become my creative companion, empowering me to design websites and craft engaging visuals. Through my work, I strive to evoke emotions and tell compelling stories, merging my creative eye with an understanding of effective marketing.",
+          "image":  require("../imagery/logoSkills/LOGO_PHOTO_DESIGN.png")
+        }
+      ]
+      
+      
