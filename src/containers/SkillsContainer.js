@@ -23,8 +23,11 @@ return null;
    
   return (
     <Container className='mt-5 mb-5'>
-     
-    <Row id="skills">
+     <h2 id="skills" className='mb-3 ms-4'>Skills featured</h2>
+     <p  className="ms-4" style={{
+    display: clickedText === "" ? 'block' : 'none',
+  }}>Please, click on a skill to learn more</p>
+    <Row >
      <Col>
      <Container>
       <Row>

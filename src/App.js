@@ -11,7 +11,7 @@ function App() {
   <HeroComponent/>
   <SliderComponent/>
   <SkillsContainer/>
-  <WebsitesContainer/>
+  {/* <WebsitesContainer/> */}
  
     </div>
   );

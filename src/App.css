@@ -4,7 +4,7 @@ a.contact {
 
 }
 
-.hero-text, .skills-text{
+.justified-text{
   text-align: justify;
   text-justify: newspaper;
 }
@@ -18,6 +18,10 @@ a.contact {
 
 .skills-text-container{
   border-radius: 25px;
+}
+
+.skills-image:hover{
+  cursor: pointer;
 }
 
 .slider-list{

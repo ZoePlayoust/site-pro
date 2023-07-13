@@ -16,7 +16,7 @@ function HeroComponent() {
         <Col className='d-flex align-items-center' >
             <div>
             <h1 className='ms-5'>Zoé Playoust - Creative digital marketing</h1>
-            <p className="hero-text mb-0 ms-5" >
+            <p className="hero-text justified-text mb-0 ms-5" >
             Hey there! I'm a 28-year-old creative and enthusiast based in Marseille. When I'm not busy exploring the great outdoors you'll find me geeking out and having a blast.<br/><br/>
             Now, here's where the magic happens. Five years ago I've discovered a way to merge my passion for creativity and design with my marketing appetite and I started my activity as a freelancer. With a knack for crafting engaging content and a keen eye for aesthetics, I can help you create a digital identity that stands out from the crowd. Whether it's developing your brand's voice, creating captivating social media campaigns, or bringing your ideas to life through well-designed websites, localizing your brand, I've got you covered.<br/><br/>
             So, if you're looking for someone who can bring a touch of fun and creativity to your digital presence, let's team up!     
