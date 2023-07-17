@@ -7,7 +7,7 @@ import Row from 'react-bootstrap/Row';
 
 function HeroComponent() {
     return (
-        <div className='hero-container pt-5 ps-5 ms-o pb-4'>
+        <div className='hero-container  ps-5 ms-o '>
     <Container className="" id='home'>
     <Row>
         <Col xs={3}>

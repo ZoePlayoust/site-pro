@@ -4,7 +4,7 @@ export const websiteData = [
       alt: "a computer and phone screen showcasing  the reddit Gardening website, and it's responsiveness", 
       text: "This website is a platform for exploring and engaging with plant-related subreddits. Developed using React, Redux, HTML, CSS, and Bootstrap, it provides a seamless browsing experience and responsive design. Asynchronous data fetching from the Reddit API is handled using Redux Thunks. The project showcases my proficiency in these technologies and my ability to work with Git and GitHub for version control and collaboration.",
       url: "https://willowy-klepon-f2f165.netlify.app/",
-      image: require("../imagery/mockupWebsite/MOCKUP-GARDENING_APP.png"),
+      image: require("../imagery/mockupWebsite/MOCKUP_GARDENING_APP.png"),
     },
 {
     name: "Green Clothing App",

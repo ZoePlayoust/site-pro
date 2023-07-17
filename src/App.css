@@ -4,6 +4,12 @@ a.contact {
 
 }
 
+.main-image{
+  display: block;
+  margin: 0 auto;
+  padding : 50px 0px
+}
+
 .justified-text{
   text-align: justify;
   text-justify: newspaper;
@@ -14,6 +20,7 @@ a.contact {
   background-repeat: no-repeat;
   background-position-y: 86%;
   background-size: 75%;
+  padding: 150px 0px;
 }
 
 .skills-text-container{
@@ -37,4 +44,3 @@ display: inline;
   display: flex;
   justify-content: space-around;
 }
-
