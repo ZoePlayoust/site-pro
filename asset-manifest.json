@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3dae1fd5.css",
+    "main.js": "/static/js/main.5fdbc90d.js",
+    "static/js/787.60a64e00.chunk.js": "/static/js/787.60a64e00.chunk.js",
+    "static/media/MOCKUP_GREENCLOTHING_APP.png": "/static/media/MOCKUP_GREENCLOTHING_APP.2bde090ba698cf3a789f.png",
+    "static/media/MOCKUP_GLOBAL.png": "/static/media/MOCKUP_GLOBAL.ee032886f089daa38e01.png",
+    "static/media/MOCKUP_GARDENING_APP.png": "/static/media/MOCKUP_GARDENING_APP.0816b01850e13eeb7ffd.png",
+    "static/media/MOCKUP_WEATHER_APP.png": "/static/media/MOCKUP_WEATHER_APP.98c92837bcd8eeab95f8.png",
+    "static/media/BACKGROUND_HERO.png": "/static/media/BACKGROUND_HERO.ed2591055e0fd271358c.png",
+    "static/media/PORTRAIT_ZOE.jpg": "/static/media/PORTRAIT_ZOE.43040b86aaa6025178f4.jpg",
+    "static/media/LOGO_LANGUAGES.png": "/static/media/LOGO_LANGUAGES.58d2bcaa9f8aeb76a68e.png",
+    "static/media/LOGO_SOCIAL_MEDIA.png": "/static/media/LOGO_SOCIAL_MEDIA.fdfb2aa4376155c0df46.png",
+    "static/media/LOGO_CODING.png": "/static/media/LOGO_CODING.33c76c94fbd42b29e896.png",
+    "static/media/LOGO_MANAGEMENT.png": "/static/media/LOGO_MANAGEMENT.9c919166298c80e50a79.png",
+    "static/media/LOGO_PHOTO_DESIGN.png": "/static/media/LOGO_PHOTO_DESIGN.5c33748ad7b572011081.png",
+    "static/media/LOGO_CONTENT_WRITING.png": "/static/media/LOGO_CONTENT_WRITING.2e160a0a84000d68bc63.png",
+    "static/media/LOGO_GOOGLE_WORKSPACE.png": "/static/media/LOGO_GOOGLE_WORKSPACE.a68e6f9ada29752c9a84.png",
+    "index.html": "/index.html",
+    "main.3dae1fd5.css.map": "/static/css/main.3dae1fd5.css.map",
+    "main.5fdbc90d.js.map": "/static/js/main.5fdbc90d.js.map",
+    "787.60a64e00.chunk.js.map": "/static/js/787.60a64e00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dae1fd5.css",
+    "static/js/main.5fdbc90d.js"
+  ]
+}
